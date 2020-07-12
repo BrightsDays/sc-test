@@ -58,12 +58,12 @@ button {
     border-radius: 4px;
     font-size: 22px;
     box-shadow: 5px 5px 30px rgba(0,0,0, .2);
-    margin: 100px auto;
+    margin: 0 auto 20px auto;
 }
 
 form {
     width: 500px;
-    margin: 0 auto;
+    margin: 20px auto;
     display: flex;
     flex-direction: column;
 }
